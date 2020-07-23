@@ -4,7 +4,7 @@
       <BuiltIn enabled="true">
 
          <!-- capture logging via Log4j 1.2, Log4j2, and Logback, default is true -->
-         <Logging enabled="true" />
+         <Logging enabled="false" />
 
          <!-- capture outgoing HTTP calls performed through Apache HttpClient, OkHttp,
               and java.net.HttpURLConnection, default is true -->
@@ -14,7 +14,7 @@
          <JDBC enabled="true" />
 
          <!-- capture Redis calls, default is true -->
-         <Jedis enabled="true" />
+         <Jedis enabled="false" />
 
          <!-- capture query plans for JDBC queries that exceed this value (MySQL, PostgreSQL),
               default is 10000 milliseconds -->

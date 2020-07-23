@@ -1,8 +1,0 @@
-{
-    "instrumentationSettings": {
-      "connectionString": "InstrumentationKey=012e9ce5-1bd2-4ec7-bfa3-a05f3581688f",
-      "preview": {
-      	"roleName": "Horsey horse"
-   	 }
-    }
-  }
